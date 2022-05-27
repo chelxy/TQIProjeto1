@@ -301,6 +301,8 @@ a:hover {
     align-items: center;
 }
 
+/*Responsivo*/
+
 @media (max-width: 800px) {
     .social-media {
         display: flex;
